@@ -1,0 +1,73 @@
+baseurl         = "https://www.medicalartspharmacy-louisville.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+#disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Medical Arts Pharmacy"
+  subtitle    = "Serving in Louisville area: Free Delivery and Free Monthly Planner Packaging "
+
+  cover       = "IMG_1679.JPG"
+  description = "Here is a description of your site."
+  metaDescription = "medical arts pharmacy louisville"
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  #fbName = ""
+  githubName = ""
+  email = "medicalartspharmacy@gmail.com"
+
+  logo = ""
+  orgName = "Medical Arts Pharmacy  1169 Eastern Parkway, Suite 1110, Louisville Kentucky, 40217-1462. Phone:502-709-5532. Fax: 502-371-6659. Hours: Monday to Friday, 8 AM to 5 PM"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "VS"
+  authorAvatar = ""
+  authorLocation = "Louisville, KY"
+  authorWebsite = ""
+  authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper-two"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  url = "/"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  name = "Directions"
+  url = "https://www.google.com/maps/place/Medical+Arts+Building,+1169+Eastern+Pkwy+%231110,+Louisville,+KY+40217/@38.2258695,-85.7277053,17z/data=!3m1!4b1!4m5!3m4!1s0x88690d277fe97df9:0x979c453d26b0d25a!8m2!3d38.2258653!4d-85.7255166"
+  weight = 1
+
+[[menu.main]]
+  name = "Refill"
+  url = "/refill/"
+  weight = 4
+
+[[menu.main]]
+  name = "Service"
+  url = "/service/"
+  weight = 5
+  tags = ["Free Delivery and Free Monthly Planner Packaging"]
+
+[[menu.main]]
+  name = "Hemp"
+  url = "/hemp/"
+  weight = 2
+
+[[menu.main]]
+  name = "Transfers"
+  url = "/transfers/"
+  weight = 3
+
