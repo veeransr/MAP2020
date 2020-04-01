@@ -77,7 +77,7 @@ paginate        = 6
   weight = 3
 
 [[menu.main]]
-  name = "Face book"
+  name = "Face_Book"
   url = "https://www.facebook.com/Medical-Arts-Pharmacy-885952964938318"
   weight = 0
 
