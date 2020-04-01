@@ -1,4 +1,4 @@
-baseurl         = "https://www.medicalartspharmacy-louisville.com"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 #disqusShortname = ""
