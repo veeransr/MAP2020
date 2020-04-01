@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "www.medicalartspharmacylouisville.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 #disqusShortname = ""
@@ -11,13 +11,13 @@ paginate        = 6
 
   cover       = "IMG_1679.JPG"
   description = "Here is a description of your site."
-  metaDescription = "medical arts pharmacy louisville"
+  metaDescription = "medical arts pharmacy, pharmacy, hemp, free delivery, free drug packaging, louisville, great service, counseling, madicare, vaacinations, refills, trasfers"
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
   twitterName = ""
-  #fbName = ""
+  #fbName = "Medical-Arts-Pharmacy-885952964938318"
   githubName = ""
   email = "medicalartspharmacy@gmail.com"
 
