@@ -17,7 +17,7 @@ paginate        = 6
   RSSLink = ""
 
   twitterName = ""
-  fbName = "medical arts pharmacy"
+  #fbName = ""
   githubName = ""
   email = "medicalartspharmacy@gmail.com"
 
