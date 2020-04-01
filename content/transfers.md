@@ -5,7 +5,7 @@ draft: false
 ---
 # Free prescription transfers:
 
-For free and efficient transfer of your prescritons please call or e-mail us the following information:
+For free and efficient transfer of your prescriptions please call or e-mail us the following information:
 
 Name:
 
