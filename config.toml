@@ -46,6 +46,11 @@ paginate        = 6
   weight = 10
 
 [[menu.main]]
+  url = "https://veeransr.wixsite.com/medicalartspharmacy"
+  name = "New_Web_Page"
+  weight = 9
+
+[[menu.main]]
   name = "Directions"
   url = "https://www.google.com/maps/place/Medical+Arts+Building,+1169+Eastern+Pkwy+%231110,+Louisville,+KY+40217/@38.2258695,-85.7277053,17z/data=!3m1!4b1!4m5!3m4!1s0x88690d277fe97df9:0x979c453d26b0d25a!8m2!3d38.2258653!4d-85.7255166"
   weight = 1
