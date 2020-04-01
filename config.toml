@@ -76,3 +76,8 @@ paginate        = 6
   url = "/transfers/"
   weight = 3
 
+[[menu.main]]
+  name = "Face book"
+  url = "https://www.facebook.com/Medical-Arts-Pharmacy-885952964938318"
+  weight = 3
+
