@@ -57,7 +57,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Refill"
-  url = "/refill/"
+  url = "https://veeransr.wixsite.com/medicalartspharmacy/refills"
   weight = 4
 
 [[menu.main]]
