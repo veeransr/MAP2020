@@ -61,7 +61,7 @@ paginate        = 6
   weight = 5
 
 [[menu.main]]
-  name = "Service & Products"
+  name = "Services & Products"
   url = "https://veeransr.wixsite.com/medicalartspharmacy/services-and-products"
   weight = 9
   tags = ["Free Delivery and Free Monthly Planner Packaging"]
