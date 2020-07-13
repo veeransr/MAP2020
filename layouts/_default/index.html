@@ -12,7 +12,7 @@
 
     <nav class="pagination" role="navigation">
       {{if .Paginator.HasPrev}}
-          <h4 class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></h4>
+          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
       {{end}}
       
       {{if .Paginator.HasNext}}
