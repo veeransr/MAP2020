@@ -10,7 +10,7 @@
         {{with .Site.Menus.main}}
         {{ range sort . "Weight" "desc"}}
             <li class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .)}}nav-current{{end}}" role="menuitem">
-              <a  href="{{.URL}}" style="font-size: 20px; background-color: rgb(15, 15, 235); font-weight:bolder"> {{.Name}} </a>
+              <a  href="{{.URL}}" style="font-size: 25px; background-color: rgb(235, 158, 15); font-weight:bolder"> {{.Name}} </a>
             </li>
         {{end}}{{end}}
       </ul></div>
