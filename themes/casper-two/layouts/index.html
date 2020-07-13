@@ -4,8 +4,11 @@
 
 {{ partial "header" . }}
 
-<main id="site-main" class="site-main outer" style= "background-image: url(logo3.jpg)" role="main">
-  <div class="inner">
+<main id="site-main" class="site-main outer" style= "background-image: url(logo3.jpg); background-repeat: no-repeat;" role="main">
+  <h1 class="site-title" style="font-size: 80px;  font-weight:bolder;color:rgb(79, 207, 54);text-align: center; text-shadow: 2px 2px 5px rgb(19, 9, 9)">{{ if .Site.Params.logo }}
+  {{else}} {{ .Site.Params.title }} {{end}} </h1>
+  <h1 class="site-description" style="font-size: 45px;  font-weight:bolder; color:rgb(212, 17, 17); text-align: center;">{{ .Site.Params.subtitle }} </h1>
+    <div class="inner">
     <div class="post-feed">
       {{ partial "post-list" . }}
     </div>
