@@ -68,7 +68,7 @@ paginate        = 6
   weight = 3
 
 [[menu.main]]
-  name = "Transfers"
+  name = "Transfer"
   url = "https://veeransr.wixsite.com/medicalartspharmacy/transfers"
   weight = 4
 
