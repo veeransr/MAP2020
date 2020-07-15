@@ -73,7 +73,7 @@ paginate        = 6
   weight = 4
 
 [[menu.main]]
-  name = "Face Book Posts"
+  name = "Stay Healthy Tips"
   url = "https://www.facebook.com/pg/Medical-Arts-Pharmacy-885952964938318/posts/?ref=page_internal"
   weight = 1
 
