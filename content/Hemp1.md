@@ -23,7 +23,7 @@ Please inform us (Phone:502-709-5532) or email: medicalartspharmacy2020@gmail.co
 
 <div class="logo-wrapper">
 
-<center>![]( anada.jpg)</center>
+<center>![](anada.jpg)</center>
 
 </div>
 
