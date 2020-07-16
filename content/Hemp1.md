@@ -11,7 +11,7 @@ image: "anada.jpg"
 
 # Medical Arts Pharmacy
 
-![](images/logo4.jpg)
+![](logo4.jpg)
 
 <div class="placeholder">
 
@@ -23,7 +23,7 @@ Please inform us (Phone:502-709-5532) or email: medicalartspharmacy2020@gmail.co
 
 <div class="logo-wrapper">
 
-<center>![]( images/anada.jpg)</center>
+<center>![]( anada.jpg)</center>
 
 </div>
 
