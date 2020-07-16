@@ -64,7 +64,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Hemp"
-  url = "/hemp/"
+  url = "/Hemp1/"
   weight = 3
 
 [[menu.main]]
