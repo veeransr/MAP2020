@@ -1,1 +1,40 @@
+{{ partial "head" . }}
 
+<body class="home-template"><div class="site-wrapper">
+
+{{ partial "header" . }}
+
+<main id="site-main" class="site-main outer" style= "background-image: url(logo3.jpg); background-repeat: no-repeat; background-position: left top;" role="main">
+  <div class="inner">
+    <div class="post-feed">
+      {{ partial "post-list" . }}
+    </div>
+
+    <nav class="pagination" role="navigation">
+      {{if .Paginator.HasPrev}}
+          <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>
+      {{end}}
+      
+      {{if .Paginator.HasNext}}
+          <h4 class="older-posts" href="{{ .Paginator.Next.URL }}"><span class="hide">Previous Posts</span> &rarr;</h4>
+      {{end}}
+    </nav>
+  </div>
+</main>
+
+{{ partial "footer" . }}
+</div>{{ partial "js" . }}
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e8530a669e9320caabf66b8/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body></html>
