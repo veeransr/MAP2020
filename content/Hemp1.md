@@ -1,3 +1,12 @@
+---
+title: "Hemp1"
+date: 2020-03-29T21:00:59-04:00
+draft: false
+image: "ananda.jpg"
+
+---
+
+
 #  Medical Arts Pharmacy
 
 ###  As an extended service, we make hemp products available. <br> Please inform us (Phone:502-709-5532) or &#10;           
