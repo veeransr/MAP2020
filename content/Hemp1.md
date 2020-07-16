@@ -5,6 +5,7 @@ draft: false
 
 
 ---
+{::options parse_block_html="true" /}
 <html>
 <head>
     <meta charset="utf-8" />
