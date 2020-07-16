@@ -1,38 +1,18 @@
----
-title: "Hemp1"
-date: 2020-03-29T21:00:59-04:00
-draft: false
 
-
----
-{::options parse_block_html="true" /}
-<html>
-<head>
-    <meta charset="utf-8" />
-    <link rel = "stylesheet" type = "text/css" href = "styles.css">
-    <meta name = "viewport" content="width = device-width, initial-scale = 1.0"/>
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1"> 
-    <title> Page Title</title>
-    <link  rel = "stylesheet" href= "styles.css">
-</head>
-<body>
-    <a href = "index.html" style="text-align: left; margin-top: 20px; padding: 20px; display: inline-block;">HOME</a>
+    [HOME](index.html)
+    [](Products & Services.html)
     
-    <h1 "site-title" style="font-size: 6vw;  font-weight:bolder;color:rgb(79, 207, 54);text-align: center; text-shadow: 5px 1px 5px greenyellow; justify-content: left;
-                            text-align: center; margin-top: 10px; padding: 10px; display: inline-block; margin-bottom: 0em;"> Medical Arts Pharmacy</h1>
-    <img src="images/logo4.jpg"; style="size: 5px; margin-top: 0em ; align-items: right; max-height: 10%; max-width: 10%; margin-bottom: 0px;"> </img> 
+#  Medical Arts Pharmacy
+    
+![](images/logo4.jpg)  
  
     <div class="placeholder">
-        <h3 style= "text-align: center; font-size: 2vw; margin-top: auto; margin-bottom: 0em;"> As an extended service, we make hemp products available. <br> Please inform us (Phone:502-709-5532) or 
-            email: medicalartspharmacy2020@gmail.com) to get it delivered to you.</h3>
+        ###  As an extended service, we make hemp products available. <br> Please inform us (Phone:502-709-5532) or &#10;            email: medicalartspharmacy2020@gmail.com) to get it delivered to you.
     </div>
 
     <div class="logo-wrapper">
-        <center><img src=" images/anada.jpg" style="size: 1.5vw;margin-top: 0em; margin-bottom: 0em;" ></center>
+        <center>![]( images/anada.jpg)</center>
     </div>
     <div class="anotherClass">
-        <h5 style= "text-align: center; font-size: 1.5vw; margin-top: 0em;"> Contact: Medical Arts Pharmacy 1169 Eastern Parkway, Suite 1110, Louisville Kentucky, 40217-1462. <br>
-            Phone:502-709-5532. Fax: 502-371-6659. <br> Hours: Monday to Friday, 8 AM to 5 PM </h5>
+        #####  Contact: Medical Arts Pharmacy 1169 Eastern Parkway, Suite 1110, Louisville Kentucky, 40217-1462. <br>&#10;            Phone:502-709-5532. Fax: 502-371-6659. <br> Hours: Monday to Friday, 8 AM to 5 PM 
     </div>
-</body>
-</html> 
