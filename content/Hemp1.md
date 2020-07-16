@@ -12,7 +12,7 @@ image: "ananda.jpg"
 ###  As an extended service, we make hemp products available. <br> Please inform us (Phone:502-709-5532) or &#10;           
 email: medicalartspharmacy2020@gmail.com) to get it delivered to you.
 
-image = "ananda.jpg"
+
 
 
 ###
