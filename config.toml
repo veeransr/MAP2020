@@ -30,7 +30,7 @@ paginate        = 6
   authorAvatar = ""
   authorLocation = "Louisville, KY"
   authorWebsite = ""
-  authorDescription = "Describe yourself.."
+  authorDescription = "AI/ML/Data scientist/Python, web and cloud developer"
 
   pageNotFoundTitle = "404 - Page not found"
 
