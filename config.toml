@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Medical Arts Pharmacy"
   subtitle    = "Free Delivery and Free Monthly Planner Packaging "
 
-  cover       = "IMG_3087.JPG"
+  cover       = "drugs.jpg"
   description = "Here is a description of your site."
   metaDescription = "medical arts pharmacy, pharmacy, hemp, free delivery, free drug packaging, louisville, great service, counseling, madicare, vaacinations, refills, transfers"
   googleAnalytics = ""
@@ -35,7 +35,7 @@ paginate        = 6
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper-two"
+  singleViewStyle = ""
 
 [permalinks]
   post = "/:slug/"
